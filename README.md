@@ -1,5 +1,5 @@
 # project
-Deployment of smart contract on Ehtereum Blockchain.
+Deployment of smart contract on Ethereum Blockchain.
 
 Role of meta mask.
 
